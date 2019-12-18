@@ -19,6 +19,5 @@ p num1 % num2
 end
 
 def square_root(num)
-x = CMath.sqrt(num) 
- puts x 
+p Math.sqrt(num) 
 end
